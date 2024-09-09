@@ -154,12 +154,15 @@ p{
  main aside ul{
    columns: 2;
    list-style-position: inside;
-   padding:5px;
+   padding:2%;
+   font-size: 15px;
+   line-height: 150%
  }
 
  main aside ul a{
    text-decoration:none;
    color:var(--cor4);
+   
  }
   
  main aside ul a:hover{
