@@ -64,8 +64,8 @@ p{
     color:white;
     text-align:center;
     font-family:var(--fonte-destaque);
-    font-size:16px;
-    padding:5px;
+    font-size:100%;
+    padding:.5%;
     text-shadow: 1px 1px 10px black;
  }
 
